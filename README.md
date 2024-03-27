@@ -2,5 +2,5 @@
 
 Hello, I am Quinn and I am a Junior Software Developer based in the Netherlands.
 
-[![My Skills]([[https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3](https://skillicons.dev/icons?i=cs,js,ts,nodejs,bun,next,dotnet,react,mysql,postgres,redis,tailwind,bootstrap,git)](https://skillicons.dev/icons?i=cs,js,ts,nodejs,bun,next,dotnet,react,mysql,postgres,redis,tailwind,bootstrap,git)https://skillicons.dev/icons?i=cs,js,ts,nodejs,bun,next,dotnet,react,mysql,postgres,redis,tailwind,bootstrap,git)](https://skillicons.dev)
+[![My Skills]([[https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3](https://skillicons.dev/icons?i=cs,js,ts,nodejs,bun,next,dotnet,react,mysql,postgres,redis,tailwind,bootstrap,git)](https://skillicons.dev/icons?i=cs,js,ts,nodejs,bun,next,dotnet,react,mysql,postgres,redis,tailwind,bootstrap,git)https://skillicons.dev/icons?i=cs,js,ts,nodejs,bun,next,dotnet,react,mysql,postgres,redis,tailwind,bootstrap,git)]([https://skillicons.dev](https://skillicons.dev/icons?i=cs,js,ts,nodejs,bun,next,dotnet,react,mysql,postgres,redis,tailwind,bootstrap,git)https://skillicons.dev/icons?i=cs,js,ts,nodejs,bun,next,dotnet,react,mysql,postgres,redis,tailwind,bootstrap,git)
 
