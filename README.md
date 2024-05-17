@@ -2,4 +2,5 @@
 
 Hello, I am Quinn and I am a Junior Software Developer based in the Netherlands.
 
-<img src="https://skillicons.dev/icons?i=cs,js,ts,nodejs,bun,next,dotnet,react,mysql,postgres,redis,tailwind,bootstrap,git" />
+## Languages
+<img src="https://skillicons.dev/icons?i=cs,dotnet,javascript,typescript,nodejs,py,markdown" />
